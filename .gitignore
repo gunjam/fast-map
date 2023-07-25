@@ -1,0 +1,12 @@
+# test coverage
+coverage
+
+# Dependency directories
+node_modules
+
+# mac files
+.DS_Store
+
+# vscode
+.vscode
+*code-workspace

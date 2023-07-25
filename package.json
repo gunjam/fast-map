@@ -1,0 +1,19 @@
+{
+  "name": "fast-map",
+  "version": "0.1.0",
+  "description": "",
+  "main": "fast-map.js",
+  "scripts": {
+    "test": "c8 node --test *.test.js",
+    "lint": "standard . --fix",
+    "benchmark": "node benchmark.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "c8": "^8.0.1",
+    "fastbench": "^1.0.1",
+    "standard": "^17.1.0"
+  }
+}
